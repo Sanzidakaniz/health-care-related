@@ -102,6 +102,7 @@ const registerNewUser=(email,password)=>{
         setError(error.message);
     })
   
+    
 }
 const setUserName=()=>{
     updateProfile(auth.currentUser,{displayName:name})

@@ -69,15 +69,16 @@
     },
     {
       "uniqueId": "6",
-      "doctorName": "Mahmud Bhuyian",
-      "operation": "70+",
-      "consultant": "Orthopedic",
-      "visitFee": "40",
-      "availableTime": "5pm - 9.30pm",
-      "picture": "https://thumbs.dreamstime.com/b/male-doctor-portrait-isolated-white-background-56744085.jpg",
-      "degree": "FCPS",
-      "experience": "9",
-      "about": "Hello I'm Mahmud Bhuyian Orthopedic specialist. I have 9 years experience with different patient and different cases. My rules is first listen then understand then feel and search and last give medicine. I also have 70+ operation experience with 95% success rate. Please book serial before coming."
+      "doctorName": "Tousif Rahman",
+      "operation": "80+",
+      "consultant": "Cardiologist",
+      "visitFee": "50",
+      "availableTime": "4pm - 7pm",
+      "picture": "https://media.istockphoto.com/photos/portrait-of-male-doctor-with-his-hands-in-lab-coat-smiling-at-camera-picture-id1141333752?k=20&m=1141333752&s=612x612&w=0&h=uvMzyJUzBDjUjptoprfmHA9n4f93F4IPZr8MLDTjTQc=",
+      "institute": "Ireland medical college",
+      "degree": "MBBS",
+      "experience": "15",
+      "about": "Hello I'm Tousif Rahman Cardiology specialist. I have 15 years experience with different patient and different cases. My rules is first listen then understand then feel and search and last give medicine. I also have 80+ operation experience with 95% success rate. Please book serial before coming."
 
     }
 ]
